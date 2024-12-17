@@ -3,3 +3,4 @@ pandas
 matplotlib
 lxml
 beautifulsoup4
+pyarrow
